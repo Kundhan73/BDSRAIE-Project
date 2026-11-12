@@ -1,0 +1,409 @@
+[
+  {
+    "policy": "lr0_t0.30",
+    "method": "baseline",
+    "alpha": 0.0,
+    "score": "score_0",
+    "threshold": 0.3
+  },
+  {
+    "policy": "lr0_t0.35",
+    "method": "baseline",
+    "alpha": 0.0,
+    "score": "score_0",
+    "threshold": 0.35
+  },
+  {
+    "policy": "lr0_t0.40",
+    "method": "baseline",
+    "alpha": 0.0,
+    "score": "score_0",
+    "threshold": 0.4
+  },
+  {
+    "policy": "lr0_t0.45",
+    "method": "baseline",
+    "alpha": 0.0,
+    "score": "score_0",
+    "threshold": 0.45
+  },
+  {
+    "policy": "lr0_t0.50",
+    "method": "baseline",
+    "alpha": 0.0,
+    "score": "score_0",
+    "threshold": 0.5
+  },
+  {
+    "policy": "lr0_t0.55",
+    "method": "baseline",
+    "alpha": 0.0,
+    "score": "score_0",
+    "threshold": 0.55
+  },
+  {
+    "policy": "lr0_t0.60",
+    "method": "baseline",
+    "alpha": 0.0,
+    "score": "score_0",
+    "threshold": 0.6
+  },
+  {
+    "policy": "lr0_t0.65",
+    "method": "baseline",
+    "alpha": 0.0,
+    "score": "score_0",
+    "threshold": 0.65
+  },
+  {
+    "policy": "lr0_t0.70",
+    "method": "baseline",
+    "alpha": 0.0,
+    "score": "score_0",
+    "threshold": 0.7
+  },
+  {
+    "policy": "lr0_t0.75",
+    "method": "baseline",
+    "alpha": 0.0,
+    "score": "score_0",
+    "threshold": 0.75
+  },
+  {
+    "policy": "lr0_t0.80",
+    "method": "baseline",
+    "alpha": 0.0,
+    "score": "score_0",
+    "threshold": 0.8
+  },
+  {
+    "policy": "lr0_t0.85",
+    "method": "baseline",
+    "alpha": 0.0,
+    "score": "score_0",
+    "threshold": 0.85
+  },
+  {
+    "policy": "lr1_t0.30",
+    "method": "reweighing",
+    "alpha": 0.5,
+    "score": "score_1",
+    "threshold": 0.3
+  },
+  {
+    "policy": "lr1_t0.35",
+    "method": "reweighing",
+    "alpha": 0.5,
+    "score": "score_1",
+    "threshold": 0.35
+  },
+  {
+    "policy": "lr1_t0.40",
+    "method": "reweighing",
+    "alpha": 0.5,
+    "score": "score_1",
+    "threshold": 0.4
+  },
+  {
+    "policy": "lr1_t0.45",
+    "method": "reweighing",
+    "alpha": 0.5,
+    "score": "score_1",
+    "threshold": 0.45
+  },
+  {
+    "policy": "lr1_t0.50",
+    "method": "reweighing",
+    "alpha": 0.5,
+    "score": "score_1",
+    "threshold": 0.5
+  },
+  {
+    "policy": "lr1_t0.55",
+    "method": "reweighing",
+    "alpha": 0.5,
+    "score": "score_1",
+    "threshold": 0.55
+  },
+  {
+    "policy": "lr1_t0.60",
+    "method": "reweighing",
+    "alpha": 0.5,
+    "score": "score_1",
+    "threshold": 0.6
+  },
+  {
+    "policy": "lr1_t0.65",
+    "method": "reweighing",
+    "alpha": 0.5,
+    "score": "score_1",
+    "threshold": 0.65
+  },
+  {
+    "policy": "lr1_t0.70",
+    "method": "reweighing",
+    "alpha": 0.5,
+    "score": "score_1",
+    "threshold": 0.7
+  },
+  {
+    "policy": "lr1_t0.75",
+    "method": "reweighing",
+    "alpha": 0.5,
+    "score": "score_1",
+    "threshold": 0.75
+  },
+  {
+    "policy": "lr1_t0.80",
+    "method": "reweighing",
+    "alpha": 0.5,
+    "score": "score_1",
+    "threshold": 0.8
+  },
+  {
+    "policy": "lr1_t0.85",
+    "method": "reweighing",
+    "alpha": 0.5,
+    "score": "score_1",
+    "threshold": 0.85
+  },
+  {
+    "policy": "lr2_t0.30",
+    "method": "reweighing",
+    "alpha": 1.0,
+    "score": "score_2",
+    "threshold": 0.3
+  },
+  {
+    "policy": "lr2_t0.35",
+    "method": "reweighing",
+    "alpha": 1.0,
+    "score": "score_2",
+    "threshold": 0.35
+  },
+  {
+    "policy": "lr2_t0.40",
+    "method": "reweighing",
+    "alpha": 1.0,
+    "score": "score_2",
+    "threshold": 0.4
+  },
+  {
+    "policy": "lr2_t0.45",
+    "method": "reweighing",
+    "alpha": 1.0,
+    "score": "score_2",
+    "threshold": 0.45
+  },
+  {
+    "policy": "lr2_t0.50",
+    "method": "reweighing",
+    "alpha": 1.0,
+    "score": "score_2",
+    "threshold": 0.5
+  },
+  {
+    "policy": "lr2_t0.55",
+    "method": "reweighing",
+    "alpha": 1.0,
+    "score": "score_2",
+    "threshold": 0.55
+  },
+  {
+    "policy": "lr2_t0.60",
+    "method": "reweighing",
+    "alpha": 1.0,
+    "score": "score_2",
+    "threshold": 0.6
+  },
+  {
+    "policy": "lr2_t0.65",
+    "method": "reweighing",
+    "alpha": 1.0,
+    "score": "score_2",
+    "threshold": 0.65
+  },
+  {
+    "policy": "lr2_t0.70",
+    "method": "reweighing",
+    "alpha": 1.0,
+    "score": "score_2",
+    "threshold": 0.7
+  },
+  {
+    "policy": "lr2_t0.75",
+    "method": "reweighing",
+    "alpha": 1.0,
+    "score": "score_2",
+    "threshold": 0.75
+  },
+  {
+    "policy": "lr2_t0.80",
+    "method": "reweighing",
+    "alpha": 1.0,
+    "score": "score_2",
+    "threshold": 0.8
+  },
+  {
+    "policy": "lr2_t0.85",
+    "method": "reweighing",
+    "alpha": 1.0,
+    "score": "score_2",
+    "threshold": 0.85
+  },
+  {
+    "policy": "to_tol0.000",
+    "method": "threshold_optimizer",
+    "tolerance": 0.0,
+    "rules": {
+      "0": {
+        "p0": 0.5891666666667431,
+        "p1": 0.4108333333332569,
+        "operation0": {
+          "operator": ">",
+          "threshold": 0.6216048360329043
+        },
+        "operation1": {
+          "operator": ">",
+          "threshold": 0.6206174701372649
+        }
+      },
+      "1": {
+        "p0": 0.440077395577396,
+        "p1": 0.559922604422604,
+        "operation0": {
+          "operator": ">",
+          "threshold": 0.40607887076499416
+        },
+        "operation1": {
+          "operator": ">",
+          "threshold": 0.36621391885204974
+        }
+      }
+    }
+  },
+  {
+    "policy": "to_tol0.010",
+    "method": "threshold_optimizer",
+    "tolerance": 0.01,
+    "rules": {
+      "0": {
+        "p0": 0.5891666666667431,
+        "p1": 0.4108333333332569,
+        "operation0": {
+          "operator": ">",
+          "threshold": 0.6216048360329043
+        },
+        "operation1": {
+          "operator": ">",
+          "threshold": 0.6206174701372649
+        }
+      },
+      "1": {
+        "p0": 0.708518427518428,
+        "p1": 0.291481572481572,
+        "operation0": {
+          "operator": ">",
+          "threshold": 0.40607887076499416
+        },
+        "operation1": {
+          "operator": ">",
+          "threshold": 0.36621391885204974
+        }
+      }
+    }
+  },
+  {
+    "policy": "to_tol0.025",
+    "method": "threshold_optimizer",
+    "tolerance": 0.025,
+    "rules": {
+      "0": {
+        "p0": 0.5891666666667431,
+        "p1": 0.4108333333332569,
+        "operation0": {
+          "operator": ">",
+          "threshold": 0.6216048360329043
+        },
+        "operation1": {
+          "operator": ">",
+          "threshold": 0.6206174701372649
+        }
+      },
+      "1": {
+        "p0": 0.3271108247422691,
+        "p1": 0.6728891752577308,
+        "operation0": {
+          "operator": ">",
+          "threshold": 0.4251148444594496
+        },
+        "operation1": {
+          "operator": ">",
+          "threshold": 0.40607887076499416
+        }
+      }
+    }
+  },
+  {
+    "policy": "to_tol0.050",
+    "method": "threshold_optimizer",
+    "tolerance": 0.05,
+    "rules": {
+      "0": {
+        "p0": 0.22147058823530472,
+        "p1": 0.7785294117646953,
+        "operation0": {
+          "operator": ">",
+          "threshold": 0.6052134271351959
+        },
+        "operation1": {
+          "operator": ">",
+          "threshold": 0.6025604131147295
+        }
+      },
+      "1": {
+        "p0": 0.22533999999996054,
+        "p1": 0.7746600000000394,
+        "operation0": {
+          "operator": ">",
+          "threshold": 0.4283435098089168
+        },
+        "operation1": {
+          "operator": ">",
+          "threshold": 0.42607544426475286
+        }
+      }
+    }
+  },
+  {
+    "policy": "to_tol0.100",
+    "method": "threshold_optimizer",
+    "tolerance": 0.1,
+    "rules": {
+      "0": {
+        "p0": 0.986296296296288,
+        "p1": 0.013703703703711989,
+        "operation0": {
+          "operator": ">",
+          "threshold": 0.5940299015180297
+        },
+        "operation1": {
+          "operator": ">",
+          "threshold": 0.5898193631541591
+        }
+      },
+      "1": {
+        "p0": 0.7109199999999762,
+        "p1": 0.28908000000002376,
+        "operation0": {
+          "operator": ">",
+          "threshold": 0.4283435098089168
+        },
+        "operation1": {
+          "operator": ">",
+          "threshold": 0.42607544426475286
+        }
+      }
+    }
+  }
+]

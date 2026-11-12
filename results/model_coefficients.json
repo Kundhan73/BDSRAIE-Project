@@ -1,0 +1,56 @@
+[
+  {
+    "model": "lr_0",
+    "alpha": 0.0,
+    "features": [
+      "income_z",
+      "debt_z",
+      "history_measured",
+      "employment_z"
+    ],
+    "intercept": 1.244584890695526,
+    "coefficients": [
+      0.8187309975184424,
+      -1.0017708232548839,
+      0.6556785472759055,
+      0.3717125975993001
+    ],
+    "seconds": 3.3072807788848877
+  },
+  {
+    "model": "lr_1",
+    "alpha": 0.5,
+    "features": [
+      "income_z",
+      "debt_z",
+      "history_measured",
+      "employment_z"
+    ],
+    "intercept": 1.2125149734790386,
+    "coefficients": [
+      0.8019854022940263,
+      -0.9891278756131691,
+      0.6163631021904585,
+      0.36440743468176134
+    ],
+    "seconds": 1.260679006576538
+  },
+  {
+    "model": "lr_2",
+    "alpha": 1.0,
+    "features": [
+      "income_z",
+      "debt_z",
+      "history_measured",
+      "employment_z"
+    ],
+    "intercept": 1.1812839209596073,
+    "coefficients": [
+      0.7853858898251428,
+      -0.9765161288304961,
+      0.5776023734021191,
+      0.35716906710341145
+    ],
+    "seconds": 1.1077558994293213
+  }
+]

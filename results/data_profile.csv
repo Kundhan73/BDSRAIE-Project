@@ -1,0 +1,13 @@
+split,group,label,count
+validation,0,1.0,146934
+train,0,0.0,218802
+validation,1,1.0,100709
+train,0,1.0,440869
+train,1,0.0,238132
+test,0,1.0,146882
+test,1,0.0,78685
+test,1,1.0,100595
+validation,0,0.0,73111
+validation,1,0.0,79136
+train,1,1.0,303073
+test,0,0.0,73072

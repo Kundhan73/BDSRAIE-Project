@@ -1,0 +1,10 @@
+test_metrics_use_repay_as_positive (test_core.CountTests.test_metrics_use_repay_as_positive) ... ok
+test_reweighing_preserves_total_and_removes_label_association (test_core.CountTests.test_reweighing_preserves_total_and_removes_label_association) ... ok
+test_score_adapter_exposes_repay_probabilities (test_core.CountTests.test_score_adapter_exposes_repay_probabilities) ... ok
+test_threshold_mixture_handles_boundaries (test_core.CountTests.test_threshold_mixture_handles_boundaries) ... ok
+test_zero_denominator_is_undefined (test_core.CountTests.test_zero_denominator_is_undefined) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.003s
+
+OK

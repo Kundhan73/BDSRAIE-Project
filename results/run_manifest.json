@@ -1,0 +1,38 @@
+{
+  "dataset": "synthetic; not Home Credit; no real applicants",
+  "rows": 2000000,
+  "seed": 327,
+  "timestamp_utc": "2026-10-28T13:39:47.552592+00:00",
+  "spark_version": "3.5.3",
+  "master": "local[4]",
+  "partitions": 8,
+  "python": "3.11.16",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "packages": {
+    "pyspark": "3.5.3",
+    "fairlearn": "0.13.0",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.7.2",
+    "scipy": "1.16.3"
+  },
+  "splits": {
+    "test": 399234,
+    "train": 1200876,
+    "validation": 399890
+  },
+  "threshold_calibration_n": 96021,
+  "calibration_cap": 100000,
+  "selected_policy": "to_tol0.010",
+  "selection_rule": "validation accuracy maximum with TPR gap <=0.02 and approval rate 0.2..0.9; if infeasible minimize TPR gap within approval bounds",
+  "selection_fallback_used": false,
+  "representatives": {
+    "baseline": "lr0_t0.50",
+    "reweighing": "lr1_t0.50",
+    "threshold_optimizer": "to_tol0.050"
+  },
+  "max_fairlearn_metric_error": 0.0,
+  "max_export_probability_error": 0.0,
+  "policy_count": 41,
+  "elapsed_seconds": 19.570261001586914
+}
